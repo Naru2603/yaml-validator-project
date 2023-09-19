@@ -1,0 +1,6 @@
+server:
+  port: 8009
+  servlet:
+     context-path: /prowings
+     URL: jdbc://localhost
+  
